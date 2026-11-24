@@ -1,0 +1,6 @@
+{
+  "name": "Fábrica de sites",
+  "description": "Sites profissionais de 1 página prontos em até 7 dias para pequenas e médias empresas, com design premium e foco em conversão pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
