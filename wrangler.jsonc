@@ -2,7 +2,7 @@
   "name": "f-bricadesites",
   "compatibility_date": "2026-11-24",
   "build": {
-    "command": "npm install && npm run build",
+    "command": "npm install --legacy-peer-deps && npm run build",
     "cwd": "./fábrica-de-sites"
   },
   "assets": {
